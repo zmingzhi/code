@@ -1,8 +1,8 @@
 {
   "name": "zongphp/code",
-  "description": "验证码",
-  "type": "project",
+  "description": "验证码组件",
   "keywords": [
+    "zongphp",
     "captcha",
     "验证码"
   ],
@@ -10,9 +10,9 @@
   "minimum-stability": "stable",
   "require": {
     "php": ">=5.4.0",
-    "zongphp/session": "~1.0",
-    "zongphp/request": "~1.0",
-    "zongphp/config": "~1.0"
+    "zongphp/session": "~2.0",
+    "zongphp/request": "~2.0",
+    "zongphp/config": "~2.0"
   },
   "autoload": {
     "files": [],

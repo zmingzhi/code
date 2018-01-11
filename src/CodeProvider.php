@@ -1,5 +1,6 @@
 <?php
 namespace zongphp\code;
+
 use zongphp\framework\build\Provider;
 
 class CodeProvider extends Provider {
